@@ -15,9 +15,8 @@ const Settings: LayoutSettings & {
   title: '基于交通大数据的低风险驾驶诱导平台',
   pwa: false,
 
-  logo: 'https://raw.githubusercontent.com/zengxingchen/PublicFile/master/ImageHost/20220329192533.svg',
-  iconfontUrl:
-    'https://raw.githubusercontent.com/zengxingchen/PublicFile/master/ImageHost/20220329192533.svg',
+  logo: 'https://picture-bedd.oss-cn-beijing.aliyuncs.com/img/20220329234308.svg',
+  iconfontUrl: 'https://picture-bedd.oss-cn-beijing.aliyuncs.com/img/20220329234308.svg',
 };
 
 export default Settings;

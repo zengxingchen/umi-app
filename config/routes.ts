@@ -59,7 +59,7 @@ export default [
     redirect: '/welcome',
   },
   {
-    name: '监控页',
+    name: '道路风险管理',
     icon: 'smile',
     path: '/dashboardmonitor',
     component: './DashboardMonitor',
